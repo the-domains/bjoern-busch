@@ -1,0 +1,28 @@
+name: Björn Busch - Senior Editor
+favicon: null
+layout_spectrum: 0.7184796505607665
+typography_spectrum: 0.2937565993051976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.45515073323622346
+  lightness: 0.2398776151239872
+  saturation: 0.9482187384273857
+  rhythmicContrast: 0.3224018441978842
+purpose: []
